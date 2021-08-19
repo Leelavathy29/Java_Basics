@@ -1,0 +1,4 @@
+106.198.89.105/32
+
+https://us-east-2.console.aws.amazon.com/ec2/v2/home?region=us-east-2#Instances:search=i-05ada4d65713b9bb4;sort=instanceId
+
